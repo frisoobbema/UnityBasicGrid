@@ -12,6 +12,16 @@ Basic parts for making a grid based game. RTS camera, Grid, Placeable objects, B
 - [ ] User friendly options
 - [ ] Fixing preformance issues with bigger grids (1000 x 1000)
 
-# Test
+# Images
+
+Two white buildings placed in the grid. And one moveable red unit.
 
 ![alt text](https://github.com/frisoobbema/UnityBasicGrid/blob/master/Images/image1.png?raw=true)
+
+All the nodes in the grid visable in the editor. The red ones are occupied, the grey nodes are free.
+
+![alt text](https://github.com/frisoobbema/UnityBasicGrid/blob/master/Images/image2.png?raw=true)
+
+The red untit has been moved, The black boxes in the grid shows the path for the unit.
+
+![alt text](https://github.com/frisoobbema/UnityBasicGrid/blob/master/Images/image3.png?raw=true)
