@@ -11,3 +11,7 @@ Basic parts for making a grid based game. RTS camera, Grid, Placeable objects, B
 - [ ] Remove existing buildings
 - [ ] User friendly options
 - [ ] Fixing preformance issues with bigger grids (1000 x 1000)
+
+# Test
+
+![alt text](https://github.com/frisoobbema/UnityBasicGrid/blob/master/Images/image1.png?raw=true)
