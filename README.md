@@ -22,6 +22,6 @@ All the nodes in the grid visable in the editor. The red ones are occupied, the 
 
 ![alt text](https://github.com/frisoobbema/UnityBasicGrid/blob/master/Images/image2.png?raw=true)
 
-The red untit has been moved, The black boxes in the grid shows the path for the unit.
+The red unit has been moved, the black boxes in the grid shows the path that the unit has to walk.
 
 ![alt text](https://github.com/frisoobbema/UnityBasicGrid/blob/master/Images/image3.png?raw=true)
